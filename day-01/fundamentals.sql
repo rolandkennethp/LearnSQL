@@ -2,6 +2,7 @@
 
 SELECT * FROM users;
 SELECT name,email FROM users;
+
 SELECT 
     name As user_name,
     age AS user_age
