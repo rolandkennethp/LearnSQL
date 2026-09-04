@@ -5,8 +5,8 @@ A 20-day journey to revise and strengthen SQL concepts, from fundamentals to adv
 ## Progress
 
 - [x] Day 01 — SQL Fundamentals
-- [ ] Day 02 — Filtering & Data Manipulation
-- [ ] Day 03 — SQL Functions
+- [x] Day 02 — Filtering & Data Manipulation
+- [x] Day 03 — SQL Functions
 - [ ] Day 04 — GROUP BY & HAVING
 - [ ] Day 05 — JOINs
 - [ ] Day 06 — Subqueries
